@@ -1,3 +1,3 @@
 # QLearning
 
-Maze solver
+Maze solver that learns through QLearning
